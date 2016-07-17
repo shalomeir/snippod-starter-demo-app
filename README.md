@@ -34,7 +34,7 @@ Preliminaries :
 
 You have to git clone this repository and update all GIT submodules.
 ```
-git clone https://github.com/shalomeir/snippod-starter-demo-app-front
+git clone https://github.com/shalomeir/snippod-starter-demo-app
 git submodule update --init
 ```
 
