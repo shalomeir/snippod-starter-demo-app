@@ -43,7 +43,7 @@ Further step is located in a each **submodules**.
 * [**Snippod-Starter-Demo-App-Front**](https://github.com/shalomeir/snippod-starter-demo-app-front)
 * [**Snippod-Starter-Demo-App-Server**](https://github.com/shalomeir/snippod-starter-demo-app-server)
 
-If you want to follow step by step, go to a [**tutorial branch**](https://github.com/shalomeir/snippod-starter-demo-app-front/tree/tutorial) of front repository.
+If you want to follow step by step, go to a [**codelab branch**](https://github.com/shalomeir/snippod-starter-demo-app-front/tree/codelab) of front repository.
 
 ## Demo
 
