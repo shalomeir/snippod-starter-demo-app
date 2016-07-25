@@ -45,6 +45,9 @@ Further step is located in a each **submodules**.
 
 If you want to follow step by step, go to a [**codelab branch**](https://github.com/shalomeir/snippod-starter-demo-app-front/tree/codelab) of front repository.
 
+More information is available at [**this blog post**](http://www.shalomeir.com/2016/07/snippod-starter-demo-app-full-stack-react-redux-django/) written in **Korean**.
+
+
 ## Demo
 
 A demonstration of this app can be seen [here](http://snippod-demo-front.ap-northeast-2.elasticbeanstalk.com/).
