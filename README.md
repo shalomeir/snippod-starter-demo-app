@@ -1,15 +1,11 @@
 # **Snippod-Starter-Demo-App**
 
-[![Join the chat at https://gitter.im/shalomeir/snippod-boilerplate](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/shalomeir/snippod-boilerplate?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 ## Overview
 
 A [**Snippod-Starter-Demo-App**](https://github.com/shalomeir/snippod-starter-demo-app) is a 'Full Stack Single Page Application' for the starter who want to be a web application developer.
 We'd like to build this starter kit based on full stack single page web application architecture.
 Snippod's architecture used a this kind of technology, **React + Flux (Redux) + django REST framewrok + RDBMS**.
 [This stack](https://drive.google.com/file/d/0B9ltVFRI_UMiSkhkenBGTEdmTUU/view?usp=sharing) is presented by diagram too.
-
-You can check out the hosted version [**DEMO**](http://snippod-demo-front.ap-northeast-2.elasticbeanstalk.com/) at [http://snippod-demo-front.ap-northeast-2.elasticbeanstalk.com/](http://snippod-demo-front.ap-northeast-2.elasticbeanstalk.com/).
 
 ![Alt Stack Diagram](https://raw.githubusercontent.com/shalomeir/snippod-starter-demo-app/master/SnippodStarterDemoAppArchitecture.png "Stack Diagram")
 
@@ -46,13 +42,6 @@ Further step is located in a each **submodules**.
 If you want to follow step by step, go to a [**codelab branch**](https://github.com/shalomeir/snippod-starter-demo-app-front/tree/codelab) of front repository.
 
 More information is available at [**this blog post**](http://www.shalomeir.com/2016/07/snippod-starter-demo-app-full-stack-react-redux-django/) written in **Korean**.
-
-
-## Demo
-
-A demonstration of this app can be seen [here](http://snippod-demo-front.ap-northeast-2.elasticbeanstalk.com/).
-
-[![Alt App Demo](https://raw.githubusercontent.com/shalomeir/snippod-starter-demo-app-front/master/SnippodStarterDemoApp_Capture_En_160717.png "App Demo")](http://snippod-demo-front.ap-northeast-2.elasticbeanstalk.com/)
 
 
 ## Contributing
