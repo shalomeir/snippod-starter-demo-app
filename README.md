@@ -7,14 +7,7 @@ We'd like to build this starter kit based on full stack single page web applicat
 Snippod's architecture used a this kind of technology, **React + Flux (Redux) + django REST framewrok + RDBMS**.
 [This stack](https://drive.google.com/file/d/0B9ltVFRI_UMiSkhkenBGTEdmTUU/view?usp=sharing) is presented by diagram too.
 
-You can check out the hosted version [**DEMO**](http://snippod-demo-front.9r5e86piij.ap-northeast-2.elasticbeanstalk.com/) at [http://snippod-demo-front.9r5e86piij.ap-northeast-2.elasticbeanstalk.com](http://snippod-demo-front.9r5e86piij.ap-northeast-2.elasticbeanstalk.com/).
-
 ![Alt Stack Diagram](https://raw.githubusercontent.com/shalomeir/snippod-starter-demo-app/master/SnippodStarterDemoAppArchitecture.png "Stack Diagram")
-
-## Demo
-A demonstration of this app can be seen [here](http://snippod-demo-front.9r5e86piij.ap-northeast-2.elasticbeanstalk.com/).
-
-[![Alt App Demo](https://raw.githubusercontent.com/shalomeir/snippod-starter-demo-app-front/master/SnippodStarterDemoApp_Capture_En_160717.png "App Demo")](http://snippod-demo-front.9r5e86piij.ap-northeast-2.elasticbeanstalk.com/)
 
 ## Base Repository, Module
 
